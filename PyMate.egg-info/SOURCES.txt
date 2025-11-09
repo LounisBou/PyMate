@@ -3,14 +3,12 @@ setup.py
 PyMate.egg-info/PKG-INFO
 PyMate.egg-info/SOURCES.txt
 PyMate.egg-info/dependency_links.txt
-PyMate.egg-info/entry_points.txt
 PyMate.egg-info/requires.txt
 PyMate.egg-info/top_level.txt
 pymate/__init__.py
 pymate/cacheit.py
 pymate/colors.py
 pymate/convertIt.py
-pymate/convertit.py
 pymate/debugit.py
 pymate/infos.py
 pymate/lazyit.py

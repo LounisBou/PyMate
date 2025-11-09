@@ -21,11 +21,6 @@ setup(
         'setuptools',
         'termcolor',
     ],
-    entry_points={
-        'console_scripts': [
-            'filemate=filemate.__main__:main',  # Command-line entry point
-        ],
-    },
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
