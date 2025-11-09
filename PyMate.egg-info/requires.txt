@@ -1,0 +1,5 @@
+diskcache
+psutil
+redis
+setuptools
+termcolor
