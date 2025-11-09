@@ -91,17 +91,29 @@ python main.py <utility_name>
 python pymate/<module_name>.py
 ```
 
+## Building the Package
+
+```bash
+# Install build tools
+pip install build
+
+# Build wheel
+python -m build --wheel
+
+# Built wheel will be in dist/ directory
+```
+
 ## Requirements
 
 - Python >= 3.6
-- diskcache
-- psutil
-- redis
-- termcolor
+- diskcache >= 5.6.3
+- psutil >= 6.1.0
+- redis >= 5.2.0
+- termcolor >= 2.5.0
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
