@@ -40,7 +40,7 @@ Repository = "https://github.com/lounisbou/PyDevMate"
 Issues = "https://github.com/lounisbou/PyDevMate/issues"
 
 [tool.setuptools]
-packages = ["pymate"]
+packages = ["pydevmate"]
 
 [tool.setuptools.package-data]
-pymate = ["py.typed"]
+pydevmate = ["py.typed"]
